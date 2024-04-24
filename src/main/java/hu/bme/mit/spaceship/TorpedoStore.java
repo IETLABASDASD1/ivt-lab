@@ -40,7 +40,8 @@ public class TorpedoStore {
     double r = generator.nextDouble();
 
     if (r >= FAILURE_RATE) {
-      // successful firing some other minimal change
+
+      // successful firing and some minimal change
       this.torpedoCount =- numberOfTorpedos;
       success = true;
     } else {
