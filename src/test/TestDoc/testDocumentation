@@ -1,0 +1,13 @@
+FireTorpedo Teszt 1:
+single fire emptys-mindket tarolo ures, nem hivja meg egyik torpedostore.fire()-t sem
+
+all fire emptys - mindket tarolo ures, nem hivja meg egyik torpedostore.fire()-t sem
+
+single fire, prime fired last =true-
+single fire és a második elsült egyszer az első csak egyszer
+
+single fire, prime fired last =false-
+single fire és az első elsült egyszer a második csak egyszer
+
+
+
